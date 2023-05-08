@@ -1,0 +1,21 @@
+Array
+(
+    [emiten] => BSBK
+    [shareholder_decrease] => 0
+    [shareholder_percentage_change] => 0
+    [last_shareholder_count] => 7670
+    [first_shareholder_count] => 7670
+    [percentage_change_formatted] => 0
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 10 Dec 2022
+                    [total_share] => 7,670
+                    [change] => 7670
+                    [change_formatted] => (+7,670)
+                )
+
+        )
+
+)

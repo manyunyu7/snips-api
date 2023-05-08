@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => COCO
+    [shareholder_decrease] => -297
+    [shareholder_percentage_change] => 17.388758782201
+    [last_shareholder_count] => 2005
+    [first_shareholder_count] => 1708
+    [percentage_change_formatted] => -17
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 1,708
+                    [change] => -31
+                    [change_formatted] => (-31)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 1,739
+                    [change] => -55
+                    [change_formatted] => (-55)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 1,794
+                    [change] => -75
+                    [change_formatted] => (-75)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 1,869
+                    [change] => -31
+                    [change_formatted] => (-31)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 1,900
+                    [change] => -105
+                    [change_formatted] => (-105)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 2,005
+                    [change] => -437
+                    [change_formatted] => (-437)
+                )
+
+        )
+
+)

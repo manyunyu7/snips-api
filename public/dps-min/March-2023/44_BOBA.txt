@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => BOBA
+    [shareholder_decrease] => -279
+    [shareholder_percentage_change] => 10.410447761194
+    [percentage_change_formatted] => 10
+    [last_shareholder_count] => 2959
+    [first_shareholder_count] => 2680
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 2,680
+                    [change] => -55
+                    [change_formatted] => (-55)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 2,735
+                    [change] => -53
+                    [change_formatted] => (-53)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 2,788
+                    [change] => -18
+                    [change_formatted] => (-18)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,806
+                    [change] => -71
+                    [change_formatted] => (-71)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 2,877
+                    [change] => -82
+                    [change_formatted] => (-82)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 2,959
+                    [change] => -113
+                    [change_formatted] => (-113)
+                )
+
+        )
+
+)

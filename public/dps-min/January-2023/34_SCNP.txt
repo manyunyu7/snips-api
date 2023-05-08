@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => SCNP
+    [shareholder_decrease] => -145
+    [shareholder_percentage_change] => 11.051829268293
+    [last_shareholder_count] => 1457
+    [first_shareholder_count] => 1312
+    [percentage_change_formatted] => -11
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 1,312
+                    [change] => -26
+                    [change_formatted] => (-26)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 1,338
+                    [change] => -34
+                    [change_formatted] => (-34)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 1,372
+                    [change] => -54
+                    [change_formatted] => (-54)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 1,426
+                    [change] => -31
+                    [change_formatted] => (-31)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 1,457
+                    [change] => -66
+                    [change_formatted] => (-66)
+                )
+
+        )
+
+)

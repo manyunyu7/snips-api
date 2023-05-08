@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => JSMR
+    [shareholder_decrease] => -2620
+    [shareholder_percentage_change] => -9.642988590357
+    [last_shareholder_count] => 24550
+    [first_shareholder_count] => 27170
+    [percentage_change_formatted] => 10
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 27,170
+                    [change] => 486
+                    [change_formatted] => (+486)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 26,684
+                    [change] => 1707
+                    [change_formatted] => (+1,707)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 24,977
+                    [change] => 157
+                    [change_formatted] => (+157)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 24,820
+                    [change] => 270
+                    [change_formatted] => (+270)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 24,550
+                    [change] => 1323
+                    [change_formatted] => (+1,323)
+                )
+
+        )
+
+)

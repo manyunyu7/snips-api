@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => CTRA
+    [shareholder_decrease] => -2406
+    [shareholder_percentage_change] => 9.1257348757823
+    [last_shareholder_count] => 28771
+    [first_shareholder_count] => 26365
+    [percentage_change_formatted] => -9
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 26,365
+                    [change] => -553
+                    [change_formatted] => (-553)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 26,918
+                    [change] => -271
+                    [change_formatted] => (-271)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 27,189
+                    [change] => -24
+                    [change_formatted] => (-24)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 27,213
+                    [change] => -1558
+                    [change_formatted] => (-1,558)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 28,771
+                    [change] => -2498
+                    [change_formatted] => (-2,498)
+                )
+
+        )
+
+)

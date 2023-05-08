@@ -1,0 +1,21 @@
+Array
+(
+    [emiten] => SHID
+    [shareholder_decrease] => 0
+    [shareholder_percentage_change] => 0
+    [last_shareholder_count] => 1289
+    [first_shareholder_count] => 1289
+    [percentage_change_formatted] => 0
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 1,289
+                    [change] => 160
+                    [change_formatted] => (+160)
+                )
+
+        )
+
+)

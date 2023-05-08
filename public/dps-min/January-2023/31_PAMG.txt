@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => PAMG
+    [shareholder_decrease] => -290
+    [shareholder_percentage_change] => 12.169534200587
+    [last_shareholder_count] => 2673
+    [first_shareholder_count] => 2383
+    [percentage_change_formatted] => -12
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 2,383
+                    [change] => -62
+                    [change_formatted] => (-62)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,445
+                    [change] => -47
+                    [change_formatted] => (-47)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 2,492
+                    [change] => -84
+                    [change_formatted] => (-84)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 2,576
+                    [change] => -97
+                    [change_formatted] => (-97)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 2,673
+                    [change] => -242
+                    [change_formatted] => (-242)
+                )
+
+        )
+
+)

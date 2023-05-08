@@ -1,0 +1,45 @@
+Array
+(
+    [emiten] => EURO
+    [shareholder_decrease] => -1544
+    [shareholder_percentage_change] => 86.595625350533
+    [last_shareholder_count] => 3327
+    [first_shareholder_count] => 1783
+    [percentage_change_formatted] => -87
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 1,783
+                    [change] => -284
+                    [change_formatted] => (-284)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,067
+                    [change] => -228
+                    [change_formatted] => (-228)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 2,295
+                    [change] => -1032
+                    [change_formatted] => (-1,032)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 3,327
+                    [change] => -908
+                    [change_formatted] => (-908)
+                )
+
+        )
+
+)

@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => BABP
+    [shareholder_decrease] => -3022
+    [shareholder_percentage_change] => 6.4908286438421
+    [last_shareholder_count] => 49580
+    [first_shareholder_count] => 46558
+    [percentage_change_formatted] => -6
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 46,558
+                    [change] => -894
+                    [change_formatted] => (-894)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 47,452
+                    [change] => -316
+                    [change_formatted] => (-316)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 47,768
+                    [change] => -370
+                    [change_formatted] => (-370)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 48,138
+                    [change] => -541
+                    [change_formatted] => (-541)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 48,679
+                    [change] => -901
+                    [change_formatted] => (-901)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 49,580
+                    [change] => -612
+                    [change_formatted] => (-612)
+                )
+
+        )
+
+)

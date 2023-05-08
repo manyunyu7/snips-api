@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => GLVA
+    [shareholder_decrease] => -238
+    [shareholder_percentage_change] => 33.147632311978
+    [last_shareholder_count] => 956
+    [first_shareholder_count] => 718
+    [percentage_change_formatted] => -33
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 718
+                    [change] => -112
+                    [change_formatted] => (-112)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 830
+                    [change] => -39
+                    [change_formatted] => (-39)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 869
+                    [change] => -48
+                    [change_formatted] => (-48)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 917
+                    [change] => -39
+                    [change_formatted] => (-39)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 956
+                    [change] => -47
+                    [change_formatted] => (-47)
+                )
+
+        )
+
+)

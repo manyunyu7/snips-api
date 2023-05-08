@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => CCSI
+    [shareholder_decrease] => -223
+    [shareholder_percentage_change] => 9.9509147701919
+    [percentage_change_formatted] => 10
+    [last_shareholder_count] => 2464
+    [first_shareholder_count] => 2241
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 7 Mar 2023
+                    [total_share] => 2,241
+                    [change] => -17
+                    [change_formatted] => (-17)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 2,258
+                    [change] => -35
+                    [change_formatted] => (-35)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 2,293
+                    [change] => -33
+                    [change_formatted] => (-33)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,326
+                    [change] => -60
+                    [change_formatted] => (-60)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 2,386
+                    [change] => -78
+                    [change_formatted] => (-78)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 2,464
+                    [change] => -31
+                    [change_formatted] => (-31)
+                )
+
+        )
+
+)

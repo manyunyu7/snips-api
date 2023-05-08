@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => ACES
+    [shareholder_decrease] => -12164
+    [shareholder_percentage_change] => -20.491913746631
+    [last_shareholder_count] => 47196
+    [first_shareholder_count] => 59360
+    [percentage_change_formatted] => 20
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 59,360
+                    [change] => 3975
+                    [change_formatted] => (+3,975)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 55,385
+                    [change] => 2201
+                    [change_formatted] => (+2,201)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 53,184
+                    [change] => 3911
+                    [change_formatted] => (+3,911)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 49,273
+                    [change] => 2077
+                    [change_formatted] => (+2,077)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 47,196
+                    [change] => 1372
+                    [change_formatted] => (+1,372)
+                )
+
+        )
+
+)

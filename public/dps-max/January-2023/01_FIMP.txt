@@ -1,0 +1,29 @@
+Array
+(
+    [emiten] => FIMP
+    [shareholder_decrease] => 555
+    [shareholder_percentage_change] => 38.013698630137
+    [last_shareholder_count] => 2015
+    [first_shareholder_count] => 1460
+    [percentage_change_formatted] => -38
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 1,460
+                    [change] => 38
+                    [change_formatted] => (+38)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2021
+                    [total_share] => 2,015
+                    [change] => 337
+                    [change_formatted] => (+337)
+                )
+
+        )
+
+)

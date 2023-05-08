@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => BIKA
+    [shareholder_decrease] => -71
+    [shareholder_percentage_change] => 5.5167055167055
+    [last_shareholder_count] => 1358
+    [first_shareholder_count] => 1287
+    [percentage_change_formatted] => -6
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 1,287
+                    [change] => -4
+                    [change_formatted] => (-4)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 1,291
+                    [change] => -16
+                    [change_formatted] => (-16)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 1,307
+                    [change] => -19
+                    [change_formatted] => (-19)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 1,326
+                    [change] => -32
+                    [change_formatted] => (-32)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 1,358
+                    [change] => -45
+                    [change_formatted] => (-45)
+                )
+
+        )
+
+)

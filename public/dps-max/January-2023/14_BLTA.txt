@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => BLTA
+    [shareholder_decrease] => -120
+    [shareholder_percentage_change] => -0.73791661542246
+    [last_shareholder_count] => 16142
+    [first_shareholder_count] => 16262
+    [percentage_change_formatted] => 1
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 16,262
+                    [change] => 22
+                    [change_formatted] => (+22)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 16,240
+                    [change] => 17
+                    [change_formatted] => (+17)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 16,223
+                    [change] => 20
+                    [change_formatted] => (+20)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 16,203
+                    [change] => 61
+                    [change_formatted] => (+61)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 16,142
+                    [change] => 61
+                    [change_formatted] => (+61)
+                )
+
+        )
+
+)

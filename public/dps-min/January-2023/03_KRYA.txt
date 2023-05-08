@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => KRYA
+    [shareholder_decrease] => -1982
+    [shareholder_percentage_change] => 64.43433029909
+    [last_shareholder_count] => 5058
+    [first_shareholder_count] => 3076
+    [percentage_change_formatted] => -64
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 3,076
+                    [change] => -24
+                    [change_formatted] => (-24)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 3,100
+                    [change] => -86
+                    [change_formatted] => (-86)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 3,186
+                    [change] => -1607
+                    [change_formatted] => (-1,607)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 4,793
+                    [change] => -265
+                    [change_formatted] => (-265)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 5,058
+                    [change] => -11439
+                    [change_formatted] => (-11,439)
+                )
+
+        )
+
+)

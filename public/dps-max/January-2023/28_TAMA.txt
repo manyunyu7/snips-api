@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => TAMA
+    [shareholder_decrease] => -475
+    [shareholder_percentage_change] => -15.055467511886
+    [last_shareholder_count] => 2680
+    [first_shareholder_count] => 3155
+    [percentage_change_formatted] => 15
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 3,155
+                    [change] => 10
+                    [change_formatted] => (+10)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 3,145
+                    [change] => 3
+                    [change_formatted] => (+3)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 3,142
+                    [change] => 30
+                    [change_formatted] => (+30)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 3,116
+                    [change] => 400
+                    [change_formatted] => (+400)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 2,680
+                    [change] => 34
+                    [change_formatted] => (+34)
+                )
+
+        )
+
+)

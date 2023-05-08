@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => BUAH
+    [shareholder_decrease] => -890
+    [shareholder_percentage_change] => 86.829268292683
+    [percentage_change_formatted] => 87
+    [last_shareholder_count] => 1915
+    [first_shareholder_count] => 1025
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 1,025
+                    [change] => -23
+                    [change_formatted] => (-23)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 1,048
+                    [change] => -111
+                    [change_formatted] => (-111)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 1,159
+                    [change] => -178
+                    [change_formatted] => (-178)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 1,337
+                    [change] => -144
+                    [change_formatted] => (-144)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 1,915
+                    [change] => -605
+                    [change_formatted] => (-605)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 1,915
+                    [change] => -605
+                    [change_formatted] => (-605)
+                )
+
+        )
+
+)

@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => NETV
+    [shareholder_decrease] => -2153
+    [shareholder_percentage_change] => 14.846228106468
+    [last_shareholder_count] => 16655
+    [first_shareholder_count] => 14502
+    [percentage_change_formatted] => -15
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 14,502
+                    [change] => -449
+                    [change_formatted] => (-449)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 14,951
+                    [change] => -796
+                    [change_formatted] => (-796)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 15,747
+                    [change] => -752
+                    [change_formatted] => (-752)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 16,499
+                    [change] => -156
+                    [change_formatted] => (-156)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 16,655
+                    [change] => -739
+                    [change_formatted] => (-739)
+                )
+
+        )
+
+)

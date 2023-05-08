@@ -1,0 +1,37 @@
+Array
+(
+    [emiten] => STTP
+    [shareholder_decrease] => -18
+    [shareholder_percentage_change] => 4.40097799511
+    [last_shareholder_count] => 427
+    [first_shareholder_count] => 409
+    [percentage_change_formatted] => -4
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 409
+                    [change] => -6
+                    [change_formatted] => (-6)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 415
+                    [change] => -12
+                    [change_formatted] => (-12)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 427
+                    [change] => -3
+                    [change_formatted] => (-3)
+                )
+
+        )
+
+)

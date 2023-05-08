@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => KICI
+    [shareholder_decrease] => -414
+    [shareholder_percentage_change] => 32.043343653251
+    [last_shareholder_count] => 1706
+    [first_shareholder_count] => 1292
+    [percentage_change_formatted] => -32
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 1,292
+                    [change] => -46
+                    [change_formatted] => (-46)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 1,338
+                    [change] => -45
+                    [change_formatted] => (-45)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 1,383
+                    [change] => -72
+                    [change_formatted] => (-72)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 1,455
+                    [change] => -251
+                    [change_formatted] => (-251)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 1,706
+                    [change] => -95
+                    [change_formatted] => (-95)
+                )
+
+        )
+
+)

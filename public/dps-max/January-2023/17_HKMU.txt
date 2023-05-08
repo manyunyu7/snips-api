@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => HKMU
+    [shareholder_decrease] => -290
+    [shareholder_percentage_change] => -2.0461440767657
+    [last_shareholder_count] => 13883
+    [first_shareholder_count] => 14173
+    [percentage_change_formatted] => 2
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 14,173
+                    [change] => 75
+                    [change_formatted] => (+75)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 14,098
+                    [change] => 38
+                    [change_formatted] => (+38)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 14,060
+                    [change] => 33
+                    [change_formatted] => (+33)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 14,027
+                    [change] => 144
+                    [change_formatted] => (+144)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 13,883
+                    [change] => 103
+                    [change_formatted] => (+103)
+                )
+
+        )
+
+)

@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => TLDN
+    [shareholder_decrease] => -289
+    [shareholder_percentage_change] => 13.794749403341
+    [percentage_change_formatted] => 14
+    [last_shareholder_count] => 2384
+    [first_shareholder_count] => 2095
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 2,095
+                    [change] => -43
+                    [change_formatted] => (-43)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 2,138
+                    [change] => -246
+                    [change_formatted] => (-246)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Dec 2022
+                    [total_share] => 2,384
+                    [change] => 0
+                    [change_formatted] => (0)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,384
+                    [change] => 0
+                    [change_formatted] => (0)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 2,384
+                    [change] => -176
+                    [change_formatted] => (-176)
+                )
+
+        )
+
+)

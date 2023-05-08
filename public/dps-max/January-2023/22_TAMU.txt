@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => TAMU
+    [shareholder_decrease] => -85
+    [shareholder_percentage_change] => -2.7624309392265
+    [last_shareholder_count] => 2992
+    [first_shareholder_count] => 3077
+    [percentage_change_formatted] => 3
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 3,077
+                    [change] => 14
+                    [change_formatted] => (+14)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 3,063
+                    [change] => 6
+                    [change_formatted] => (+6)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 3,057
+                    [change] => 17
+                    [change_formatted] => (+17)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 3,041
+                    [change] => 26
+                    [change_formatted] => (+26)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 3,016
+                    [change] => 25
+                    [change_formatted] => (+25)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 2,992
+                    [change] => 21
+                    [change_formatted] => (+21)
+                )
+
+        )
+
+)

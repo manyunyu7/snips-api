@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => MSKY
+    [shareholder_decrease] => -558
+    [shareholder_percentage_change] => 19.836473515819
+    [last_shareholder_count] => 3371
+    [first_shareholder_count] => 2813
+    [percentage_change_formatted] => -20
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 2,813
+                    [change] => -138
+                    [change_formatted] => (-138)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,951
+                    [change] => -45
+                    [change_formatted] => (-45)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 2,996
+                    [change] => -114
+                    [change_formatted] => (-114)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 3,110
+                    [change] => -116
+                    [change_formatted] => (-116)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 3,226
+                    [change] => -145
+                    [change_formatted] => (-145)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 3,371
+                    [change] => -55
+                    [change_formatted] => (-55)
+                )
+
+        )
+
+)

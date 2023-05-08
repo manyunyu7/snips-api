@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => STAA
+    [shareholder_decrease] => -806
+    [shareholder_percentage_change] => 30.438066465257
+    [last_shareholder_count] => 3454
+    [first_shareholder_count] => 2648
+    [percentage_change_formatted] => -30
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 2,648
+                    [change] => -41
+                    [change_formatted] => (-41)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 2,689
+                    [change] => -169
+                    [change_formatted] => (-169)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,858
+                    [change] => -253
+                    [change_formatted] => (-253)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 3,111
+                    [change] => -60
+                    [change_formatted] => (-60)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 3,171
+                    [change] => -283
+                    [change_formatted] => (-283)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 3,454
+                    [change] => -455
+                    [change_formatted] => (-455)
+                )
+
+        )
+
+)

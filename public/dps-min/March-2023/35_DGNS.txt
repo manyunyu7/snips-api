@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => DGNS
+    [shareholder_decrease] => -954
+    [shareholder_percentage_change] => 13.574274331246
+    [percentage_change_formatted] => 14
+    [last_shareholder_count] => 7982
+    [first_shareholder_count] => 7028
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 7,028
+                    [change] => -132
+                    [change_formatted] => (-132)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 7,160
+                    [change] => -149
+                    [change_formatted] => (-149)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 7,309
+                    [change] => -227
+                    [change_formatted] => (-227)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 7,536
+                    [change] => -100
+                    [change_formatted] => (-100)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 7,636
+                    [change] => -346
+                    [change_formatted] => (-346)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 7,982
+                    [change] => -260
+                    [change_formatted] => (-260)
+                )
+
+        )
+
+)

@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => BUDI
+    [shareholder_decrease] => -862
+    [shareholder_percentage_change] => 22.006637732959
+    [last_shareholder_count] => 4779
+    [first_shareholder_count] => 3917
+    [percentage_change_formatted] => -22
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 3,917
+                    [change] => -97
+                    [change_formatted] => (-97)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 4,014
+                    [change] => -125
+                    [change_formatted] => (-125)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 4,139
+                    [change] => -146
+                    [change_formatted] => (-146)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 4,285
+                    [change] => -211
+                    [change_formatted] => (-211)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 4,496
+                    [change] => -283
+                    [change_formatted] => (-283)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 4,779
+                    [change] => -324
+                    [change_formatted] => (-324)
+                )
+
+        )
+
+)

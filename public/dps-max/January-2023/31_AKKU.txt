@@ -1,0 +1,37 @@
+Array
+(
+    [emiten] => AKKU
+    [shareholder_decrease] => -1184
+    [shareholder_percentage_change] => -17.996656026752
+    [last_shareholder_count] => 5395
+    [first_shareholder_count] => 6579
+    [percentage_change_formatted] => 18
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 6,579
+                    [change] => 139
+                    [change_formatted] => (+139)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 6,440
+                    [change] => 77
+                    [change_formatted] => (+77)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2021
+                    [total_share] => 5,395
+                    [change] => 844
+                    [change_formatted] => (+844)
+                )
+
+        )
+
+)

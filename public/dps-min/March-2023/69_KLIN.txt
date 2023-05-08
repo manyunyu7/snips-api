@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => KLIN
+    [shareholder_decrease] => --61
+    [shareholder_percentage_change] => -1.647312989468
+    [percentage_change_formatted] => -2
+    [last_shareholder_count] => 3642
+    [first_shareholder_count] => 3703
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 3,703
+                    [change] => -106
+                    [change_formatted] => (-106)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Dec 2022
+                    [total_share] => 3,809
+                    [change] => -174
+                    [change_formatted] => (-174)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 3,983
+                    [change] => -339
+                    [change_formatted] => (-339)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 4,322
+                    [change] => -454
+                    [change_formatted] => (-454)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 4,776
+                    [change] => -585
+                    [change_formatted] => (-585)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2022
+                    [total_share] => 3,642
+                    [change] => -61
+                    [change_formatted] => (-61)
+                )
+
+        )
+
+)

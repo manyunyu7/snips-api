@@ -1,0 +1,29 @@
+Array
+(
+    [emiten] => KETR
+    [shareholder_decrease] => -864
+    [shareholder_percentage_change] => 16.881594372802
+    [last_shareholder_count] => 5982
+    [first_shareholder_count] => 5118
+    [percentage_change_formatted] => -17
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 5,118
+                    [change] => -864
+                    [change_formatted] => (-864)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 5,982
+                    [change] => 0
+                    [change_formatted] => (0)
+                )
+
+        )
+
+)

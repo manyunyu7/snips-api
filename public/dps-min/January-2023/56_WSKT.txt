@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => WSKT
+    [shareholder_decrease] => -3489
+    [shareholder_percentage_change] => 3.530268842772
+    [last_shareholder_count] => 102320
+    [first_shareholder_count] => 98831
+    [percentage_change_formatted] => -4
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 98,831
+                    [change] => -67
+                    [change_formatted] => (-67)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 98,898
+                    [change] => -281
+                    [change_formatted] => (-281)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 99,179
+                    [change] => -581
+                    [change_formatted] => (-581)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 99,760
+                    [change] => -696
+                    [change_formatted] => (-696)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 100,456
+                    [change] => -1864
+                    [change_formatted] => (-1,864)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 102,320
+                    [change] => -1297
+                    [change_formatted] => (-1,297)
+                )
+
+        )
+
+)

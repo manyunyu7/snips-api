@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => DEWI
+    [shareholder_decrease] => -1732
+    [shareholder_percentage_change] => 62.776368249366
+    [last_shareholder_count] => 4491
+    [first_shareholder_count] => 2759
+    [percentage_change_formatted] => -63
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 2,759
+                    [change] => 0
+                    [change_formatted] => (0)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,759
+                    [change] => -434
+                    [change_formatted] => (-434)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 3,193
+                    [change] => -544
+                    [change_formatted] => (-544)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 6 Oct 2022
+                    [total_share] => 3,737
+                    [change] => -754
+                    [change_formatted] => (-754)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 3,737
+                    [change] => -754
+                    [change_formatted] => (-754)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 4,491
+                    [change] => -1823
+                    [change_formatted] => (-1,823)
+                )
+
+        )
+
+)

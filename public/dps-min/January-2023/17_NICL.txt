@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => NICL
+    [shareholder_decrease] => -2809
+    [shareholder_percentage_change] => 20.165111270639
+    [last_shareholder_count] => 16739
+    [first_shareholder_count] => 13930
+    [percentage_change_formatted] => -20
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 30 Dec 2022
+                    [total_share] => 13,930
+                    [change] => -909
+                    [change_formatted] => (-909)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 14,839
+                    [change] => -1327
+                    [change_formatted] => (-1,327)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 16,166
+                    [change] => -539
+                    [change_formatted] => (-539)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 16,705
+                    [change] => -34
+                    [change_formatted] => (-34)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 16,739
+                    [change] => -1259
+                    [change_formatted] => (-1,259)
+                )
+
+        )
+
+)

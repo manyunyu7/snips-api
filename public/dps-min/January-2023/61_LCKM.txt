@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => LCKM
+    [shareholder_decrease] => -25
+    [shareholder_percentage_change] => 2.844141069397
+    [last_shareholder_count] => 904
+    [first_shareholder_count] => 879
+    [percentage_change_formatted] => -3
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 30 Dec 2022
+                    [total_share] => 879
+                    [change] => -6
+                    [change_formatted] => (-6)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 885
+                    [change] => -4
+                    [change_formatted] => (-4)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 889
+                    [change] => -5
+                    [change_formatted] => (-5)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 894
+                    [change] => -10
+                    [change_formatted] => (-10)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 904
+                    [change] => -5
+                    [change_formatted] => (-5)
+                )
+
+        )
+
+)

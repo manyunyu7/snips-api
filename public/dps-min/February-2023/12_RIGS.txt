@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => RIGS
+    [shareholder_decrease] => -554
+    [shareholder_percentage_change] => 32.115942028986
+    [last_shareholder_count] => 2279
+    [first_shareholder_count] => 1725
+    [percentage_change_formatted] => -32
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 1,725
+                    [change] => -57
+                    [change_formatted] => (-57)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 1,782
+                    [change] => -89
+                    [change_formatted] => (-89)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 1,871
+                    [change] => -63
+                    [change_formatted] => (-63)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 1,934
+                    [change] => -86
+                    [change_formatted] => (-86)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 2,020
+                    [change] => -259
+                    [change_formatted] => (-259)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 2,279
+                    [change] => -76
+                    [change_formatted] => (-76)
+                )
+
+        )
+
+)

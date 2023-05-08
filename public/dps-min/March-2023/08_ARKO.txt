@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => ARKO
+    [shareholder_decrease] => -1582
+    [shareholder_percentage_change] => 49.826771653543
+    [percentage_change_formatted] => 50
+    [last_shareholder_count] => 4757
+    [first_shareholder_count] => 3175
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 3,175
+                    [change] => -297
+                    [change_formatted] => (-297)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 3,472
+                    [change] => -43
+                    [change_formatted] => (-43)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 3,515
+                    [change] => -478
+                    [change_formatted] => (-478)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 3,993
+                    [change] => -427
+                    [change_formatted] => (-427)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 4,420
+                    [change] => -337
+                    [change_formatted] => (-337)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 4,757
+                    [change] => -655
+                    [change_formatted] => (-655)
+                )
+
+        )
+
+)

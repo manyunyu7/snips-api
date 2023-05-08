@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => JAST
+    [shareholder_decrease] => -566
+    [shareholder_percentage_change] => 6.4318181818182
+    [last_shareholder_count] => 9366
+    [first_shareholder_count] => 8800
+    [percentage_change_formatted] => -6
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 8,800
+                    [change] => -80
+                    [change_formatted] => (-80)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 8,880
+                    [change] => -75
+                    [change_formatted] => (-75)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 8,955
+                    [change] => -311
+                    [change_formatted] => (-311)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 9,266
+                    [change] => -100
+                    [change_formatted] => (-100)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 9,366
+                    [change] => -229
+                    [change_formatted] => (-229)
+                )
+
+        )
+
+)

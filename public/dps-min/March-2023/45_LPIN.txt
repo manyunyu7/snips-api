@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => LPIN
+    [shareholder_decrease] => -228
+    [shareholder_percentage_change] => 10.101905183872
+    [percentage_change_formatted] => 10
+    [last_shareholder_count] => 2485
+    [first_shareholder_count] => 2257
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 2,257
+                    [change] => -20
+                    [change_formatted] => (-20)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 2,277
+                    [change] => -24
+                    [change_formatted] => (-24)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 2,301
+                    [change] => -65
+                    [change_formatted] => (-65)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,366
+                    [change] => -71
+                    [change_formatted] => (-71)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 2,437
+                    [change] => -48
+                    [change_formatted] => (-48)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 2,485
+                    [change] => -90
+                    [change_formatted] => (-90)
+                )
+
+        )
+
+)

@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => KOTA
+    [shareholder_decrease] => -194
+    [shareholder_percentage_change] => -1.1889440460869
+    [last_shareholder_count] => 16123
+    [first_shareholder_count] => 16317
+    [percentage_change_formatted] => 1
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 16,317
+                    [change] => 3
+                    [change_formatted] => (+3)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 16,314
+                    [change] => 22
+                    [change_formatted] => (+22)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 16,292
+                    [change] => 52
+                    [change_formatted] => (+52)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 16,240
+                    [change] => 118
+                    [change_formatted] => (+118)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 16,123
+                    [change] => 71
+                    [change_formatted] => (+71)
+                )
+
+        )
+
+)

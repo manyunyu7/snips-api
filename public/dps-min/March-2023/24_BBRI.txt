@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => BBRI
+    [shareholder_decrease] => -60874
+    [shareholder_percentage_change] => 19.62708727628
+    [percentage_change_formatted] => 20
+    [last_shareholder_count] => 371027
+    [first_shareholder_count] => 310153
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 310,153
+                    [change] => -8988
+                    [change_formatted] => (-8,988)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 319,141
+                    [change] => -24194
+                    [change_formatted] => (-24,194)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 343,335
+                    [change] => -6962
+                    [change_formatted] => (-6,962)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 350,297
+                    [change] => -14350
+                    [change_formatted] => (-14,350)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 364,647
+                    [change] => -6380
+                    [change_formatted] => (-6,380)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 371,027
+                    [change] => -19755
+                    [change_formatted] => (-19,755)
+                )
+
+        )
+
+)

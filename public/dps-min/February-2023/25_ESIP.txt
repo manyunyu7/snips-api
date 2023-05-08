@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => ESIP
+    [shareholder_decrease] => -1046
+    [shareholder_percentage_change] => 15.588673621461
+    [last_shareholder_count] => 7756
+    [first_shareholder_count] => 6710
+    [percentage_change_formatted] => -16
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 6,710
+                    [change] => -366
+                    [change_formatted] => (-366)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 7,076
+                    [change] => -64125
+                    [change_formatted] => (-64,125)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 7,201
+                    [change] => -35
+                    [change_formatted] => (-35)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 7,236
+                    [change] => -316
+                    [change_formatted] => (-316)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 7,552
+                    [change] => -204
+                    [change_formatted] => (-204)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 7,756
+                    [change] => -636
+                    [change_formatted] => (-636)
+                )
+
+        )
+
+)

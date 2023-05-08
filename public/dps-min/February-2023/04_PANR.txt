@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => PANR
+    [shareholder_decrease] => -878
+    [shareholder_percentage_change] => 73.411371237458
+    [last_shareholder_count] => 2074
+    [first_shareholder_count] => 1196
+    [percentage_change_formatted] => -73
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 1,196
+                    [change] => -345
+                    [change_formatted] => (-345)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 1,529
+                    [change] => -112
+                    [change_formatted] => (-112)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 1,641
+                    [change] => -379
+                    [change_formatted] => (-379)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 2,020
+                    [change] => -54
+                    [change_formatted] => (-54)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 2,074
+                    [change] => -11
+                    [change_formatted] => (-11)
+                )
+
+        )
+
+)

@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => SWAT
+    [shareholder_decrease] => -610
+    [shareholder_percentage_change] => 9.4764641913935
+    [percentage_change_formatted] => 9
+    [last_shareholder_count] => 7047
+    [first_shareholder_count] => 6437
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 6,437
+                    [change] => -22
+                    [change_formatted] => (-22)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 6,459
+                    [change] => -60
+                    [change_formatted] => (-60)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 6,519
+                    [change] => -157
+                    [change_formatted] => (-157)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 6,676
+                    [change] => -196
+                    [change_formatted] => (-196)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 6,872
+                    [change] => -175
+                    [change_formatted] => (-175)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 7,047
+                    [change] => -573
+                    [change_formatted] => (-573)
+                )
+
+        )
+
+)

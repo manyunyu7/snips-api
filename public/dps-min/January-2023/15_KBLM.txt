@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => KBLM
+    [shareholder_decrease] => -426
+    [shareholder_percentage_change] => 24.287343215507
+    [last_shareholder_count] => 2180
+    [first_shareholder_count] => 1754
+    [percentage_change_formatted] => -24
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 1,754
+                    [change] => -37
+                    [change_formatted] => (-37)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 1,791
+                    [change] => -103
+                    [change_formatted] => (-103)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 1,894
+                    [change] => -150
+                    [change_formatted] => (-150)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 2,044
+                    [change] => -136
+                    [change_formatted] => (-136)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 2,180
+                    [change] => -137
+                    [change_formatted] => (-137)
+                )
+
+        )
+
+)

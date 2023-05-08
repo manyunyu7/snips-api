@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => SILO
+    [shareholder_decrease] => -1161
+    [shareholder_percentage_change] => 35.844396418648
+    [last_shareholder_count] => 4400
+    [first_shareholder_count] => 3239
+    [percentage_change_formatted] => -36
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 3,239
+                    [change] => -266
+                    [change_formatted] => (-266)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 3,505
+                    [change] => -418
+                    [change_formatted] => (-418)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 3,923
+                    [change] => -15
+                    [change_formatted] => (-15)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 3,938
+                    [change] => -219
+                    [change_formatted] => (-219)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 4,157
+                    [change] => -243
+                    [change_formatted] => (-243)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 4,400
+                    [change] => -26
+                    [change_formatted] => (-26)
+                )
+
+        )
+
+)

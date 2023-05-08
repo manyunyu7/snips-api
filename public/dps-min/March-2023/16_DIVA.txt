@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => DIVA
+    [shareholder_decrease] => -362
+    [shareholder_percentage_change] => 24.31161853593
+    [percentage_change_formatted] => 24
+    [last_shareholder_count] => 1851
+    [first_shareholder_count] => 1489
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 1,489
+                    [change] => -39
+                    [change_formatted] => (-39)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 1,528
+                    [change] => -48
+                    [change_formatted] => (-48)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 1,576
+                    [change] => -26
+                    [change_formatted] => (-26)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 1,602
+                    [change] => -30
+                    [change_formatted] => (-30)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 1,632
+                    [change] => -219
+                    [change_formatted] => (-219)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 1,851
+                    [change] => -192
+                    [change_formatted] => (-192)
+                )
+
+        )
+
+)

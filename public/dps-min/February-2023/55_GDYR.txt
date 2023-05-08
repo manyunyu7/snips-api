@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => GDYR
+    [shareholder_decrease] => -52
+    [shareholder_percentage_change] => 3.2642812303829
+    [last_shareholder_count] => 1645
+    [first_shareholder_count] => 1593
+    [percentage_change_formatted] => -3
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 30 Dec 2022
+                    [total_share] => 1,593
+                    [change] => -7
+                    [change_formatted] => (-7)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 1,600
+                    [change] => -8
+                    [change_formatted] => (-8)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 1,608
+                    [change] => -32
+                    [change_formatted] => (-32)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 1,640
+                    [change] => -5
+                    [change_formatted] => (-5)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 1,645
+                    [change] => -23
+                    [change_formatted] => (-23)
+                )
+
+        )
+
+)

@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => TOPS
+    [shareholder_decrease] => -115
+    [shareholder_percentage_change] => -0.7308083375699
+    [last_shareholder_count] => 15621
+    [first_shareholder_count] => 15736
+    [percentage_change_formatted] => 1
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 15,736
+                    [change] => 17
+                    [change_formatted] => (+17)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 15,719
+                    [change] => 14
+                    [change_formatted] => (+14)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 15,705
+                    [change] => 15
+                    [change_formatted] => (+15)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 15,690
+                    [change] => 30
+                    [change_formatted] => (+30)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 15,660
+                    [change] => 39
+                    [change_formatted] => (+39)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 15,621
+                    [change] => 28
+                    [change_formatted] => (+28)
+                )
+
+        )
+
+)

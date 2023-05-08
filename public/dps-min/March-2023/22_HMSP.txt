@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => HMSP
+    [shareholder_decrease] => -13546
+    [shareholder_percentage_change] => 19.982593046069
+    [percentage_change_formatted] => 20
+    [last_shareholder_count] => 81335
+    [first_shareholder_count] => 67789
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 67,789
+                    [change] => -5503
+                    [change_formatted] => (-5,503)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 73,292
+                    [change] => -1229
+                    [change_formatted] => (-1,229)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 74,521
+                    [change] => -1014
+                    [change_formatted] => (-1,014)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 75,535
+                    [change] => -1159
+                    [change_formatted] => (-1,159)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 76,694
+                    [change] => -4641
+                    [change_formatted] => (-4,641)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 81,335
+                    [change] => -163
+                    [change_formatted] => (-163)
+                )
+
+        )
+
+)

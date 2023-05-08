@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => KAEF
+    [shareholder_decrease] => -1439
+    [shareholder_percentage_change] => 5.0654745142213
+    [last_shareholder_count] => 29847
+    [first_shareholder_count] => 28408
+    [percentage_change_formatted] => -5
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 28,408
+                    [change] => -90
+                    [change_formatted] => (-90)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 28,498
+                    [change] => -284
+                    [change_formatted] => (-284)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 28,782
+                    [change] => -126
+                    [change_formatted] => (-126)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 29,292
+                    [change] => -102
+                    [change_formatted] => (-102)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 29,394
+                    [change] => -453
+                    [change_formatted] => (-453)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 29,847
+                    [change] => -371
+                    [change_formatted] => (-371)
+                )
+
+        )
+
+)

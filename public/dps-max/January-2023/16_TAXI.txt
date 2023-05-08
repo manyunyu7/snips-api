@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => TAXI
+    [shareholder_decrease] => -127
+    [shareholder_percentage_change] => -1.6410388939139
+    [last_shareholder_count] => 7612
+    [first_shareholder_count] => 7739
+    [percentage_change_formatted] => 2
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 30 Dec 2022
+                    [total_share] => 7,739
+                    [change] => 24
+                    [change_formatted] => (+24)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 7,715
+                    [change] => 32
+                    [change_formatted] => (+32)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 7,683
+                    [change] => 26
+                    [change_formatted] => (+26)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 7,657
+                    [change] => 17
+                    [change_formatted] => (+17)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 7,640
+                    [change] => 28
+                    [change_formatted] => (+28)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 7,612
+                    [change] => 21
+                    [change_formatted] => (+21)
+                )
+
+        )
+
+)

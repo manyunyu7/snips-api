@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => KARW
+    [shareholder_decrease] => -332
+    [shareholder_percentage_change] => 13.248204309657
+    [last_shareholder_count] => 2838
+    [first_shareholder_count] => 2506
+    [percentage_change_formatted] => -13
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 2,506
+                    [change] => -12
+                    [change_formatted] => (-12)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,518
+                    [change] => -89
+                    [change_formatted] => (-89)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 2,607
+                    [change] => -33
+                    [change_formatted] => (-33)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 2,640
+                    [change] => -126
+                    [change_formatted] => (-126)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 2,757
+                    [change] => -81
+                    [change_formatted] => (-81)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 2,838
+                    [change] => -61
+                    [change_formatted] => (-61)
+                )
+
+        )
+
+)

@@ -1,0 +1,21 @@
+Array
+(
+    [emiten] => BAPI
+    [shareholder_decrease] => 0
+    [shareholder_percentage_change] => 0
+    [last_shareholder_count] => 9721
+    [first_shareholder_count] => 9721
+    [percentage_change_formatted] => 0
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 1 Jun 2022
+                    [total_share] => 9,721
+                    [change] => 27
+                    [change_formatted] => (+27)
+                )
+
+        )
+
+)

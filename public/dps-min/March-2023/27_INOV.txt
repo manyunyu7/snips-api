@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => INOV
+    [shareholder_decrease] => -551
+    [shareholder_percentage_change] => 16.316257032869
+    [percentage_change_formatted] => 16
+    [last_shareholder_count] => 3928
+    [first_shareholder_count] => 3377
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 3,377
+                    [change] => -100
+                    [change_formatted] => (-100)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 3,477
+                    [change] => -90
+                    [change_formatted] => (-90)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 3,567
+                    [change] => -104
+                    [change_formatted] => (-104)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 3,671
+                    [change] => -168
+                    [change_formatted] => (-168)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 3,839
+                    [change] => -89
+                    [change_formatted] => (-89)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 3,928
+                    [change] => -64
+                    [change_formatted] => (-64)
+                )
+
+        )
+
+)

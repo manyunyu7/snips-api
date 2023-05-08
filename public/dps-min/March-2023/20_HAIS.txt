@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => HAIS
+    [shareholder_decrease] => -1111
+    [shareholder_percentage_change] => 21.522665633475
+    [percentage_change_formatted] => 22
+    [last_shareholder_count] => 6273
+    [first_shareholder_count] => 5162
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 5,162
+                    [change] => -84
+                    [change_formatted] => (-84)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 5,246
+                    [change] => -138
+                    [change_formatted] => (-138)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 5,384
+                    [change] => -121
+                    [change_formatted] => (-121)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 5,505
+                    [change] => -428
+                    [change_formatted] => (-428)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 5,933
+                    [change] => -340
+                    [change_formatted] => (-340)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 6,273
+                    [change] => -529
+                    [change_formatted] => (-529)
+                )
+
+        )
+
+)

@@ -1,0 +1,29 @@
+Array
+(
+    [emiten] => TELE
+    [shareholder_decrease] => -1
+    [shareholder_percentage_change] => 0.0085940185630801
+    [percentage_change_formatted] => 0
+    [last_shareholder_count] => 11637
+    [first_shareholder_count] => 11636
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 30 Jun 2021
+                    [total_share] => 11,636
+                    [change] => 0
+                    [change_formatted] => (0)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2022
+                    [total_share] => 11,637
+                    [change] => 0
+                    [change_formatted] => (0)
+                )
+
+        )
+
+)

@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => MORA
+    [shareholder_decrease] => -3508
+    [shareholder_percentage_change] => 71.738241308793
+    [percentage_change_formatted] => 72
+    [last_shareholder_count] => 8398
+    [first_shareholder_count] => 4890
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 4,890
+                    [change] => -246
+                    [change_formatted] => (-246)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 5,136
+                    [change] => -673
+                    [change_formatted] => (-673)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 5,809
+                    [change] => -610
+                    [change_formatted] => (-610)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 6,419
+                    [change] => -674
+                    [change_formatted] => (-674)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 7,093
+                    [change] => -1308
+                    [change_formatted] => (-1,308)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 8,398
+                    [change] => -1268
+                    [change_formatted] => (-1,268)
+                )
+
+        )
+
+)

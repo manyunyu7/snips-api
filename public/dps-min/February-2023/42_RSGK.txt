@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => RSGK
+    [shareholder_decrease] => -89
+    [shareholder_percentage_change] => 7.2831423895254
+    [last_shareholder_count] => 1311
+    [first_shareholder_count] => 1222
+    [percentage_change_formatted] => -7
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 1,222
+                    [change] => -2
+                    [change_formatted] => (-2)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 1,224
+                    [change] => -22
+                    [change_formatted] => (-22)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 1,246
+                    [change] => -10
+                    [change_formatted] => (-10)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 1,256
+                    [change] => -21
+                    [change_formatted] => (-21)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 1,277
+                    [change] => -34
+                    [change_formatted] => (-34)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 1,311
+                    [change] => -29
+                    [change_formatted] => (-29)
+                )
+
+        )
+
+)

@@ -1,0 +1,21 @@
+Array
+(
+    [emiten] => PADA
+    [shareholder_decrease] => 0
+    [shareholder_percentage_change] => 0
+    [last_shareholder_count] => 5661
+    [first_shareholder_count] => 5661
+    [percentage_change_formatted] => 0
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 5,661
+                    [change] => 5659
+                    [change_formatted] => (+5,659)
+                )
+
+        )
+
+)

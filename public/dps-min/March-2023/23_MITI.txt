@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => MITI
+    [shareholder_decrease] => -1170
+    [shareholder_percentage_change] => 19.894575752423
+    [percentage_change_formatted] => 20
+    [last_shareholder_count] => 7051
+    [first_shareholder_count] => 5881
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 5,881
+                    [change] => -288
+                    [change_formatted] => (-288)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 6,169
+                    [change] => -135
+                    [change_formatted] => (-135)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 6,304
+                    [change] => -170
+                    [change_formatted] => (-170)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 6,474
+                    [change] => -384
+                    [change_formatted] => (-384)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 6,858
+                    [change] => -193
+                    [change_formatted] => (-193)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 7,051
+                    [change] => -307
+                    [change_formatted] => (-307)
+                )
+
+        )
+
+)

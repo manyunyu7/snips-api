@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => TOWR
+    [shareholder_decrease] => -4016
+    [shareholder_percentage_change] => 17.080639673358
+    [last_shareholder_count] => 27528
+    [first_shareholder_count] => 23512
+    [percentage_change_formatted] => -17
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 23,512
+                    [change] => -317
+                    [change_formatted] => (-317)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 23,829
+                    [change] => -464
+                    [change_formatted] => (-464)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 24,293
+                    [change] => -1533
+                    [change_formatted] => (-1,533)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 25,826
+                    [change] => -1702
+                    [change_formatted] => (-1,702)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 27,528
+                    [change] => -4415
+                    [change_formatted] => (-4,415)
+                )
+
+        )
+
+)

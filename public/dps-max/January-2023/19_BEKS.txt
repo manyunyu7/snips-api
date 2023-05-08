@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => BEKS
+    [shareholder_decrease] => -1196
+    [shareholder_percentage_change] => -2.109793959921
+    [last_shareholder_count] => 55492
+    [first_shareholder_count] => 56688
+    [percentage_change_formatted] => 2
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 56,688
+                    [change] => 80
+                    [change_formatted] => (+80)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 56,608
+                    [change] => 233
+                    [change_formatted] => (+233)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 56,375
+                    [change] => 264
+                    [change_formatted] => (+264)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 56,111
+                    [change] => 619
+                    [change_formatted] => (+619)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 55,492
+                    [change] => 184
+                    [change_formatted] => (+184)
+                )
+
+        )
+
+)

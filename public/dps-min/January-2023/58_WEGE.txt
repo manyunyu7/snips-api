@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => WEGE
+    [shareholder_decrease] => -560
+    [shareholder_percentage_change] => 3.2632130994697
+    [last_shareholder_count] => 17721
+    [first_shareholder_count] => 17161
+    [percentage_change_formatted] => -3
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 17,161
+                    [change] => -181
+                    [change_formatted] => (-181)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 17,342
+                    [change] => -69
+                    [change_formatted] => (-69)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 17,411
+                    [change] => -235
+                    [change_formatted] => (-235)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 17,645
+                    [change] => -76
+                    [change_formatted] => (-76)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 17,721
+                    [change] => -590
+                    [change_formatted] => (-590)
+                )
+
+        )
+
+)

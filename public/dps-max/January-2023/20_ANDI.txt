@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => ANDI
+    [shareholder_decrease] => -262
+    [shareholder_percentage_change] => -2.5756979944947
+    [last_shareholder_count] => 9910
+    [first_shareholder_count] => 10172
+    [percentage_change_formatted] => 3
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 10,172
+                    [change] => 20
+                    [change_formatted] => (+20)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 10,152
+                    [change] => 28
+                    [change_formatted] => (+28)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 10,124
+                    [change] => 63
+                    [change_formatted] => (+63)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 10,061
+                    [change] => 90
+                    [change_formatted] => (+90)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 9,971
+                    [change] => 61
+                    [change_formatted] => (+61)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 9,910
+                    [change] => 62
+                    [change_formatted] => (+62)
+                )
+
+        )
+
+)

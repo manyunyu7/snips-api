@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => NOBU
+    [shareholder_decrease] => -485
+    [shareholder_percentage_change] => 10.608048993876
+    [last_shareholder_count] => 5057
+    [first_shareholder_count] => 4572
+    [percentage_change_formatted] => -11
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 4,572
+                    [change] => -67
+                    [change_formatted] => (-67)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 4,639
+                    [change] => -33
+                    [change_formatted] => (-33)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 4,672
+                    [change] => -117
+                    [change_formatted] => (-117)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 4,789
+                    [change] => -248
+                    [change_formatted] => (-248)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 5,037
+                    [change] => -20
+                    [change_formatted] => (-20)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Jun 2022
+                    [total_share] => 5,057
+                    [change] => -66
+                    [change_formatted] => (-66)
+                )
+
+        )
+
+)

@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => DEPO
+    [shareholder_decrease] => -344
+    [shareholder_percentage_change] => 17.148554336989
+    [last_shareholder_count] => 2350
+    [first_shareholder_count] => 2006
+    [percentage_change_formatted] => -17
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 2,006
+                    [change] => -68
+                    [change_formatted] => (-68)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 2,074
+                    [change] => -115
+                    [change_formatted] => (-115)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,189
+                    [change] => -89
+                    [change_formatted] => (-89)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 2,278
+                    [change] => -25
+                    [change_formatted] => (-25)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 2,303
+                    [change] => -47
+                    [change_formatted] => (-47)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 2,350
+                    [change] => -45
+                    [change_formatted] => (-45)
+                )
+
+        )
+
+)

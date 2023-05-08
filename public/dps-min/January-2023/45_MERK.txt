@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => MERK
+    [shareholder_decrease] => -200
+    [shareholder_percentage_change] => 8.7719298245614
+    [last_shareholder_count] => 2480
+    [first_shareholder_count] => 2280
+    [percentage_change_formatted] => -9
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 2,280
+                    [change] => -26
+                    [change_formatted] => (-26)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,306
+                    [change] => -26
+                    [change_formatted] => (-26)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 2,332
+                    [change] => -33
+                    [change_formatted] => (-33)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 2,365
+                    [change] => -96
+                    [change_formatted] => (-96)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 2,461
+                    [change] => -19
+                    [change_formatted] => (-19)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 2,480
+                    [change] => -62
+                    [change_formatted] => (-62)
+                )
+
+        )
+
+)

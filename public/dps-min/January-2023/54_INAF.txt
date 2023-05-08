@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => INAF
+    [shareholder_decrease] => -411
+    [shareholder_percentage_change] => 4.2249177631579
+    [last_shareholder_count] => 10139
+    [first_shareholder_count] => 9728
+    [percentage_change_formatted] => -4
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 9,728
+                    [change] => -97
+                    [change_formatted] => (-97)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 9,825
+                    [change] => -71
+                    [change_formatted] => (-71)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 9,896
+                    [change] => -140
+                    [change_formatted] => (-140)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 10,036
+                    [change] => -103
+                    [change_formatted] => (-103)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 10,139
+                    [change] => -119
+                    [change_formatted] => (-119)
+                )
+
+        )
+
+)

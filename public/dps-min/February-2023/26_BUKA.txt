@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => BUKA
+    [shareholder_decrease] => -14072
+    [shareholder_percentage_change] => 14.619196525967
+    [last_shareholder_count] => 110329
+    [first_shareholder_count] => 96257
+    [percentage_change_formatted] => -15
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 96,257
+                    [change] => -2034
+                    [change_formatted] => (-2,034)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 98,291
+                    [change] => -2331
+                    [change_formatted] => (-2,331)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 100,622
+                    [change] => -5366
+                    [change_formatted] => (-5,366)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 105,988
+                    [change] => -3283
+                    [change_formatted] => (-3,283)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 109,271
+                    [change] => -1061
+                    [change_formatted] => (-1,061)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 110,329
+                    [change] => -1714
+                    [change_formatted] => (-1,714)
+                )
+
+        )
+
+)

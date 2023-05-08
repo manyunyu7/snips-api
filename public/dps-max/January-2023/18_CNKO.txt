@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => CNKO
+    [shareholder_decrease] => -177
+    [shareholder_percentage_change] => -2.0857883572944
+    [last_shareholder_count] => 8309
+    [first_shareholder_count] => 8486
+    [percentage_change_formatted] => 2
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 8,486
+                    [change] => 2
+                    [change_formatted] => (+2)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 8,484
+                    [change] => 9
+                    [change_formatted] => (+9)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 8,475
+                    [change] => 23
+                    [change_formatted] => (+23)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 8,452
+                    [change] => 117
+                    [change_formatted] => (+117)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 8,335
+                    [change] => 26
+                    [change_formatted] => (+26)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jul 2022
+                    [total_share] => 8,309
+                    [change] => 25
+                    [change_formatted] => (+25)
+                )
+
+        )
+
+)

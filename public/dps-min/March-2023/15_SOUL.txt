@@ -1,0 +1,29 @@
+Array
+(
+    [emiten] => SOUL
+    [shareholder_decrease] => -1650
+    [shareholder_percentage_change] => 25.466893039049
+    [percentage_change_formatted] => 25
+    [last_shareholder_count] => 8129
+    [first_shareholder_count] => 6479
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 9 Mar 2023
+                    [total_share] => 6,479
+                    [change] => -1650
+                    [change_formatted] => (-1,650)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 8,129
+                    [change] => 0
+                    [change_formatted] => (0)
+                )
+
+        )
+
+)

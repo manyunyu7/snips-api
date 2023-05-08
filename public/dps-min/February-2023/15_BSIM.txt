@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => BSIM
+    [shareholder_decrease] => -569
+    [shareholder_percentage_change] => 25.110326566637
+    [last_shareholder_count] => 2835
+    [first_shareholder_count] => 2266
+    [percentage_change_formatted] => -25
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 2,266
+                    [change] => -70
+                    [change_formatted] => (-70)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 2,336
+                    [change] => -126
+                    [change_formatted] => (-126)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,462
+                    [change] => -269
+                    [change_formatted] => (-269)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 2,731
+                    [change] => -76
+                    [change_formatted] => (-76)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 2,807
+                    [change] => -28
+                    [change_formatted] => (-28)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 2,835
+                    [change] => -12
+                    [change_formatted] => (-12)
+                )
+
+        )
+
+)

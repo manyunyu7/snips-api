@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => ADCP
+    [shareholder_decrease] => -2075
+    [shareholder_percentage_change] => 11.532903512672
+    [percentage_change_formatted] => 12
+    [last_shareholder_count] => 20067
+    [first_shareholder_count] => 17992
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 17,992
+                    [change] => -389
+                    [change_formatted] => (-389)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 18,381
+                    [change] => -105
+                    [change_formatted] => (-105)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 18,486
+                    [change] => -503
+                    [change_formatted] => (-503)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 18,989
+                    [change] => -574
+                    [change_formatted] => (-574)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 19,563
+                    [change] => -504
+                    [change_formatted] => (-504)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 20,067
+                    [change] => -321
+                    [change_formatted] => (-321)
+                )
+
+        )
+
+)

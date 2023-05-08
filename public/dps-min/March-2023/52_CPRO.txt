@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => CPRO
+    [shareholder_decrease] => -2877
+    [shareholder_percentage_change] => 8.8928041543027
+    [percentage_change_formatted] => 9
+    [last_shareholder_count] => 35229
+    [first_shareholder_count] => 32352
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 32,352
+                    [change] => -548
+                    [change_formatted] => (-548)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 32,900
+                    [change] => -675
+                    [change_formatted] => (-675)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 30 Dec 2022
+                    [total_share] => 33,575
+                    [change] => -695
+                    [change_formatted] => (-695)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 34,270
+                    [change] => -581
+                    [change_formatted] => (-581)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 28 Oct 2022
+                    [total_share] => 34,851
+                    [change] => -378
+                    [change_formatted] => (-378)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 35,229
+                    [change] => -610
+                    [change_formatted] => (-610)
+                )
+
+        )
+
+)

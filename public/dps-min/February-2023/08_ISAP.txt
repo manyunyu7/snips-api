@@ -1,0 +1,29 @@
+Array
+(
+    [emiten] => ISAP
+    [shareholder_decrease] => -2534
+    [shareholder_percentage_change] => 37.128205128205
+    [last_shareholder_count] => 9359
+    [first_shareholder_count] => 6825
+    [percentage_change_formatted] => -37
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 6,825
+                    [change] => -2534
+                    [change_formatted] => (-2,534)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 9,359
+                    [change] => 0
+                    [change_formatted] => (0)
+                )
+
+        )
+
+)

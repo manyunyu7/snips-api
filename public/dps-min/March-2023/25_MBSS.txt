@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => MBSS
+    [shareholder_decrease] => -449
+    [shareholder_percentage_change] => 19.23736075407
+    [percentage_change_formatted] => 19
+    [last_shareholder_count] => 2783
+    [first_shareholder_count] => 2334
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 2,334
+                    [change] => -34
+                    [change_formatted] => (-34)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 2,368
+                    [change] => 0
+                    [change_formatted] => (0)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 2,422
+                    [change] => -38
+                    [change_formatted] => (-38)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 2,460
+                    [change] => -10
+                    [change_formatted] => (-10)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 2,470
+                    [change] => -313
+                    [change_formatted] => (-313)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 2,783
+                    [change] => -353
+                    [change_formatted] => (-353)
+                )
+
+        )
+
+)

@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => PTRO
+    [shareholder_decrease] => -1699
+    [shareholder_percentage_change] => 36.862660013018
+    [last_shareholder_count] => 6308
+    [first_shareholder_count] => 4609
+    [percentage_change_formatted] => -37
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 4,609
+                    [change] => -187
+                    [change_formatted] => (-187)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 4,795
+                    [change] => -514
+                    [change_formatted] => (-514)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 5,309
+                    [change] => -417
+                    [change_formatted] => (-417)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 5,727
+                    [change] => -581
+                    [change_formatted] => (-581)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 6,308
+                    [change] => -307
+                    [change_formatted] => (-307)
+                )
+
+        )
+
+)

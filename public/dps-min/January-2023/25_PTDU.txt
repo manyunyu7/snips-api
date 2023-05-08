@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => PTDU
+    [shareholder_decrease] => -1359
+    [shareholder_percentage_change] => 14.906219151037
+    [last_shareholder_count] => 10476
+    [first_shareholder_count] => 9117
+    [percentage_change_formatted] => -15
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 9,117
+                    [change] => -302
+                    [change_formatted] => (-302)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 9,419
+                    [change] => -295
+                    [change_formatted] => (-295)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 9,714
+                    [change] => -256
+                    [change_formatted] => (-256)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 9,970
+                    [change] => -506
+                    [change_formatted] => (-506)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 10,476
+                    [change] => -877
+                    [change_formatted] => (-877)
+                )
+
+        )
+
+)

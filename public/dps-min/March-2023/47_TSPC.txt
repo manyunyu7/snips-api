@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => TSPC
+    [shareholder_decrease] => -552
+    [shareholder_percentage_change] => 9.6
+    [percentage_change_formatted] => 10
+    [last_shareholder_count] => 6302
+    [first_shareholder_count] => 5750
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 5,750
+                    [change] => -95
+                    [change_formatted] => (-95)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 5,845
+                    [change] => -166
+                    [change_formatted] => (-166)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 6,011
+                    [change] => -148
+                    [change_formatted] => (-148)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 6,159
+                    [change] => -11
+                    [change_formatted] => (-11)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 6,170
+                    [change] => -132
+                    [change_formatted] => (-132)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 6,302
+                    [change] => -77
+                    [change_formatted] => (-77)
+                )
+
+        )
+
+)

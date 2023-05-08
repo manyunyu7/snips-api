@@ -1,0 +1,37 @@
+Array
+(
+    [emiten] => SIPD
+    [shareholder_decrease] => -31
+    [shareholder_percentage_change] => 0.41835357624831
+    [last_shareholder_count] => 7441
+    [first_shareholder_count] => 7410
+    [percentage_change_formatted] => 0
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 7,410
+                    [change] => -29
+                    [change_formatted] => (-29)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 7,439
+                    [change] => -2
+                    [change_formatted] => (-2)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 7,441
+                    [change] => -6
+                    [change_formatted] => (-6)
+                )
+
+        )
+
+)

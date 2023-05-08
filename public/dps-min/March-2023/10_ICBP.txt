@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => ICBP
+    [shareholder_decrease] => -19627
+    [shareholder_percentage_change] => 42.261315188838
+    [percentage_change_formatted] => 42
+    [last_shareholder_count] => 66069
+    [first_shareholder_count] => 46442
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 46,442
+                    [change] => -1256
+                    [change_formatted] => (-1,256)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 47,698
+                    [change] => -2251
+                    [change_formatted] => (-2,251)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 49,949
+                    [change] => -4975
+                    [change_formatted] => (-4,975)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 54,924
+                    [change] => -3531
+                    [change_formatted] => (-3,531)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 58,455
+                    [change] => -7614
+                    [change_formatted] => (-7,614)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 66,069
+                    [change] => -2121
+                    [change_formatted] => (-2,121)
+                )
+
+        )
+
+)

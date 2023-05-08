@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => IFSH
+    [shareholder_decrease] => -47
+    [shareholder_percentage_change] => -7.9661016949153
+    [last_shareholder_count] => 543
+    [first_shareholder_count] => 590
+    [percentage_change_formatted] => 8
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 590
+                    [change] => 23
+                    [change_formatted] => (+23)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 567
+                    [change] => 1
+                    [change_formatted] => (+1)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 566
+                    [change] => 20
+                    [change_formatted] => (+20)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 546
+                    [change] => 3
+                    [change_formatted] => (+3)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 543
+                    [change] => 0
+                    [change_formatted] => (0)
+                )
+
+        )
+
+)

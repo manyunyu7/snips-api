@@ -1,0 +1,29 @@
+Array
+(
+    [emiten] => ZATA
+    [shareholder_decrease] => -970
+    [shareholder_percentage_change] => -10.321344967014
+    [last_shareholder_count] => 8428
+    [first_shareholder_count] => 9398
+    [percentage_change_formatted] => 10
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 9,398
+                    [change] => 970
+                    [change_formatted] => (+970)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 8,428
+                    [change] => 0
+                    [change_formatted] => (0)
+                )
+
+        )
+
+)

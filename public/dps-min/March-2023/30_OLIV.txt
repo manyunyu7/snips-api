@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => OLIV
+    [shareholder_decrease] => -983
+    [shareholder_percentage_change] => 15.578446909667
+    [percentage_change_formatted] => 16
+    [last_shareholder_count] => 7293
+    [first_shareholder_count] => 6310
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 28 Feb 2023
+                    [total_share] => 6,310
+                    [change] => -148
+                    [change_formatted] => (-148)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 31 Jan 2023
+                    [total_share] => 6,458
+                    [change] => -208
+                    [change_formatted] => (-208)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 6,666
+                    [change] => -38
+                    [change_formatted] => (-38)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 6,704
+                    [change] => -372
+                    [change_formatted] => (-372)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 7,076
+                    [change] => -217
+                    [change_formatted] => (-217)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 7,293
+                    [change] => -512
+                    [change_formatted] => (-512)
+                )
+
+        )
+
+)

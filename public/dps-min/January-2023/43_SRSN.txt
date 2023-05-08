@@ -1,0 +1,61 @@
+Array
+(
+    [emiten] => SRSN
+    [shareholder_decrease] => -382
+    [shareholder_percentage_change] => 9.0094339622642
+    [last_shareholder_count] => 4622
+    [first_shareholder_count] => 4240
+    [percentage_change_formatted] => -9
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 30 Dec 2022
+                    [total_share] => 4,240
+                    [change] => -54
+                    [change_formatted] => (-54)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 4,294
+                    [change] => -38
+                    [change_formatted] => (-38)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 4,332
+                    [change] => -78
+                    [change_formatted] => (-78)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 4,410
+                    [change] => -128
+                    [change_formatted] => (-128)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 4,538
+                    [change] => -84
+                    [change_formatted] => (-84)
+                )
+
+            [5] => stdClass Object
+                (
+                    [shareholder_date] => 29 Jul 2022
+                    [total_share] => 4,622
+                    [change] => -108
+                    [change_formatted] => (-108)
+                )
+
+        )
+
+)

@@ -1,0 +1,53 @@
+Array
+(
+    [emiten] => AVIA
+    [shareholder_decrease] => -1319
+    [shareholder_percentage_change] => -15.401681457263
+    [last_shareholder_count] => 7245
+    [first_shareholder_count] => 8564
+    [percentage_change_formatted] => 15
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [shareholder_date] => 31 Dec 2022
+                    [total_share] => 8,564
+                    [change] => 1116
+                    [change_formatted] => (+1,116)
+                )
+
+            [1] => stdClass Object
+                (
+                    [shareholder_date] => 30 Nov 2022
+                    [total_share] => 7,448
+                    [change] => 0
+                    [change_formatted] => (0)
+                )
+
+            [2] => stdClass Object
+                (
+                    [shareholder_date] => 31 Oct 2022
+                    [total_share] => 7,448
+                    [change] => 45
+                    [change_formatted] => (+45)
+                )
+
+            [3] => stdClass Object
+                (
+                    [shareholder_date] => 30 Sep 2022
+                    [total_share] => 7,403
+                    [change] => 158
+                    [change_formatted] => (+158)
+                )
+
+            [4] => stdClass Object
+                (
+                    [shareholder_date] => 31 Aug 2022
+                    [total_share] => 7,245
+                    [change] => 122
+                    [change_formatted] => (+122)
+                )
+
+        )
+
+)
